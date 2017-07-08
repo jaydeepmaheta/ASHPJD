@@ -1,0 +1,12 @@
+127.0.0.1 - - [24/Jun/2017:11:12:05 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:11:12:07 +0530] "GET /ShoppingProject/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:11:13:16 +0530] "GET /ShoppingProject/testmap/test HTTP/1.1" 500 5542
+127.0.0.1 - - [24/Jun/2017:13:09:08 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:09:10 +0530] "GET /ShoppingProject/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:09:24 +0530] "GET /ShoppingProject/testmap/test HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:13:35 +0530] "GET /ShoppingProject/testmap/test HTTP/1.1" 404 992
+127.0.0.1 - - [24/Jun/2017:13:17:27 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:17:28 +0530] "GET /ShoppingProject/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:19:31 +0530] "GET /ShoppingProject/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:19:31 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [24/Jun/2017:13:19:39 +0530] "GET /ShoppingProject/testmap/test HTTP/1.1" 404 992
